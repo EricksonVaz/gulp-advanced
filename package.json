@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "rm -f dev & gulp --development",
-    "build": "rm -f dist & gulp run build --production"
+    "build": "rm -f dist & gulp build --production"
   },
   "keywords": [],
   "author": "",
